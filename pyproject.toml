@@ -5,7 +5,7 @@ description = ""
 authors = ["sigma-andex <sigma.andex@pm.me>"]
 
 [tool.poetry.dependencies]
-python = "^3.9.7"
+python = "^3.9"
 guesslang = "^2.2.1"
 Flask = "^2.0.2"
 
